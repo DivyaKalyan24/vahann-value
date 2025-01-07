@@ -36,7 +36,7 @@ import './styles/pages/error/errorPage.css'
 import axios from 'axios'
 import { Context } from '.'
 
-const AUTH_URL = 'https://vahann-value-api.vercel.app'
+const AUTH_URL = 'https://vahann-value-api-beta.vercel.app'
 
 export default function App() {
 
