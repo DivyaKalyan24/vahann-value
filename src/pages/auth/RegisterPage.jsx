@@ -17,7 +17,7 @@ const RegisterPage = () => {
 		document.title = 'Register | Vahann Value.'
 	}, [])
 
-	const AUTH_URL = 'https://vahann-value-api.vercel.app'
+	const AUTH_URL = 'https://vahann-value-api-beta.vercel.app'
 
 	const onSubmit = async (e) => {
 		e.preventDefault()
