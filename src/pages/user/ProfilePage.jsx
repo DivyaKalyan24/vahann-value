@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react'
 import { Context } from '../..'
 import axios from 'axios'
 
-const AUTH_URL = 'https://vahann-value-api-beta.vercel.app' 
+const AUTH_URL = 'https://vahann-value-api-beta.vercel.app'
 
 const ProfilePage = () => {
     const { user } = useContext(Context)
